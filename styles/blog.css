@@ -3,3 +3,10 @@ div{
     margin: 15px;
     padding: 10px;
 }
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    font-size:larger;
+    font-style: italic;
+}
